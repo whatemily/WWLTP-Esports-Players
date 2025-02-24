@@ -52,7 +52,7 @@
   {
     "Alias": "JonahP",
     "Name": "Jonah Pulice",
-    "Nationality": "[Canada, Italy]",
+    "Nationality": ["Canada", "Italy"],
     "Game": "VALORANT",
     "Team": "G2",
     "Status": "Active",
@@ -242,7 +242,7 @@
   {
     "Alias": "Derke",
     "Name": "Nikita Sirmitev",
-    "Nationality": "[Finland, Russia]",
+    "Nationality": ["Finland", "Russia"],
     "Game": "VALORANT",
     "Team": "Team Vitality",
     "Status": "Active",
