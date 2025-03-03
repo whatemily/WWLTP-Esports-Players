@@ -298,5 +298,105 @@
     "Status": "Active",
     "Image": "https://pbs.twimg.com/media/GL27zGAWAAAVJVa?format=jpg&name=large",
     "Link": ""
+  },
+    {
+    "Alias": "MaKo",
+    "Name": "김명관 (Kim Myeong-kwan)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "DRX",
+    "Status": "Active",
+    "Image": "https://valo2asia.com/wp-content/uploads/2024/09/53897002426_208a245625_k-1170x780.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Flashback",
+    "Name": "조민혁 (Cho Min-hyuk)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "DRX",
+    "Status": "Active",
+    "Image": "https://valo2asia.com/wp-content/uploads/2023/10/TEN-2023-%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%9D%B8%EB%B9%84%ED%85%8C%EC%9D%B4%EC%85%94%EB%84%90-DAY2-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%98%A4%ED%94%84-7-56-5-screenshot-1170x658.png",
+    "Link": ""
+  },
+  {
+    "Alias": "Free1ng",
+    "Name": "노하준 (No Ha-jun)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "DRX",
+    "Status": "Active",
+    "Image": "https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=pad%2Ch=675%2Cq=85%2Csharpen=2%2Cw=1200/wp-content/uploads/free1ng.png",
+    "Link": ""
+  },
+  {
+    "Alias": "HYUNMIN",
+    "Name": "송현민 (Song Hyun-min)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "DRX",
+    "Status": "Active",
+    "Image": "https://admin.esports.gg/wp-content/uploads/2025/02/HYUNMIN-VALORANT-crosshair-and-settings.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "BeYN",
+    "Name": "강하빈 (Kang Ha-bin)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "DRX",
+    "Status": "Active",
+    "Image": "https://valo2asia.com/wp-content/uploads/2023/06/2023-WCG-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A9%E1%84%85%E1%85%A1%E1%86%AB%E1%84%90%E1%85%B3-%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%89%E1%85%B3-%E1%84%8F%E1%85%A9%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A1-%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5-2-%E1%84%91%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3-2%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1-I-DK-vs.-GJS-MARU-vs.-NS-6-30-19-screenshot-1170x658.png",
+    "Link": ""
+  },
+  {
+    "Alias": "iZu",
+    "Name": "함우주 (Ham Woo-Joo)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://valorantnews.jp/wp-content/uploads/2025/01/53843015363_a8b5871c0b_k.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "stax",
+    "Name": "김구택 (Kim Gu-taek)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/07/Valorant_stax_MastersCopenhagen2022_Day3.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Sylvan",
+    "Name": "고영섭 (Ko Young-sub)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://valo2asia.com/wp-content/uploads/2024/10/FyeGJTWaYAAdg2y-min-1024x683.png",
+    "Link": ""
+  },
+  {
+    "Alias": "Meteor",
+    "Name": "김태오 (Kim Tae-oh)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://valo2asia.com/wp-content/uploads/2024/10/53905836994_87dde040d2_k-1170x780.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "BuZz",
+    "Name": "유병철 (Yu Byung-chul)",
+    "Nationality": "South Korea",
+    "Game": "VALORANT",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/07/Valorant_DRX_BuZz_VCTKoreaStage2Challengers_Champions_7.webp",
+    "Link": ""
   }
 ]
