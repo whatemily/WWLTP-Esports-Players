@@ -728,5 +728,205 @@
     "Status": "Active",
     "Image": "https://cdn.sanity.io/images/6znhzi10/production/d39e4918453ffcec1f03c7288a3054c7b58fb206-1920x1280.jpg?w=768&auto=format",
     "Link": ""
+  },
+  {
+    "Alias": "donk",
+    "Name": "Danil Kryshkovets",
+    "Nationality": "Russia",
+    "Game": "Counter-Strike 2",
+    "Team": "Team Spirit",
+    "Status": "Active",
+    "Image": "https://cdn.sanity.io/images/6znhzi10/production/d39e4918453ffcec1f03c7288a3054c7b58fb206-1920x1280.jpg?w=768&auto=format",
+    "Link": ""
+  },
+  {
+    "Alias": "Kagami",
+    "Name": "Wang \"UMA\" Yuan-hao",
+    "Nationality": "Taiwanese",
+    "Game": "Street Fighter 6",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://liquipedia.net/commons/images/4/46/UMA_Capcom_Cup_X.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "The Beast",
+    "Name": "Daigo Umehara",
+    "Nationality": "Japanese",
+    "Game": "Street Fighter 6",
+    "Team": "Team Beast",
+    "Status": "Active",
+    "Image": "https://tse3.mm.bing.net/th?id=OIP.tmc-aIIHGVnPJSgYIPk5ZAHaE8&pid=Api",
+    "Link": ""
+  },
+  {
+    "Alias": "NuckleDu",
+    "Name": "Du Dang",
+    "Nationality": "United States",
+    "Game": "Street Fighter 6",
+    "Team": "Shopify Rebellion",
+    "Status": "Active",
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.u3LvaygaEeJMYK8Ni3KLLAHaHa&w=474&h=474&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "GO1",
+    "Name": "Goichi Kishida",
+    "Nationality": "Japanese",
+    "Game": "Dragon Ball FighterZ",
+    "Team": "CYCLOPS Athlete Gaming",
+    "Status": "Active",
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.UW1NYz_P_347zniSkYIxBwHaE8&w=316&h=316&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Punk",
+    "Name": "Victor Woodley",
+    "Nationality": "United States",
+    "Game": "Street Fighter",
+    "Team": "FlyQuest",
+    "Status": "Active",
+    "Image": "https://tse3.mm.bing.net/th?id=OIP.GXUZIQkrqIuvtoBaoT6KpAHaEK&w=266&h=266&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "MkLeo",
+    "Name": "Leonardo López Pérez",
+    "Nationality": "Mexican",
+    "Game": "Super Smash Bros. Ultimate",
+    "Team": "Luminosity Gaming",
+    "Status": "Active",
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.IhWFfnH2Ue0VVmY-zIBY6AAAAA&w=450&h=450&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Tokido Murderface",
+    "Name": "Hajime Taniguchi",
+    "Nationality": "Japanese",
+    "Game": "Street Fighter 6",
+    "Team": "Rohto Z! Team Red Bull",
+    "Status": "Active",
+    "Image": "https://kotaku.com/tokido-finally-gets-his-decisive-street-fighter-v-win-a-1842366544",
+    "Link": ""
+  },
+  {
+    "Alias": "Arslan Ash",
+    "Name": "Arslan Siddique",
+    "Nationality": "Pakistani",
+    "Game": "Tekken 8",
+    "Team": "Twisted Minds",
+    "Status": "Active",
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.BfG61DhCKVQk2wat-spwZAHaE8&w=316&h=316&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "JWong",
+    "Name": "Justin Wong",
+    "Nationality": "Japanese",
+    "Game": "Street Fighter 6",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.s2WHU3EOeGZgxgWmq-TGwwHaFS&w=338&h=338&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Knee",
+    "Name": "Bae Jae-min",
+    "Nationality": "South Korean",
+    "Game": "Tekken 8",
+    "Team": "DRX (DragonX)",
+    "Status": "Active",
+    "Image": "https://tse3.mm.bing.net/th?id=OIP.gP0VJeS37EFyFPhI95_QLQHaKg&w=474&h=474&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "SonicFox",
+    "Name": "Dominique McLean",
+    "Nationality": "United States",
+    "Game": "Street Fighter 6",
+    "Team": "Luminosity Gaming",
+    "Status": "Active",
+    "Image": "https://images.squarespace-cdn.com/content/v1/58f0f670ff7c50d19776494d/b72f2b74-82bb-4ab7-b2d2-f2aad476f995/guests_sonicfox_bio_pic.jpg?format=1500w",
+    "Link": ""
+  },
+  {
+    "Alias": "Gachikun",
+    "Name": "Tsunehiro  Kanamori",
+    "Nationality": "Japanese",
+    "Game": "Street Fighter 6",
+    "Team": "Good 8 Squad",
+    "Status": "Active",
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.EY7FbmpC6F_-IUUB8p-FawAAAA&w=400&h=400&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Bonchan",
+    "Name": "Masato Takahashi",
+    "Nationality": "Japanese",
+    "Game": "Street Fighter 6",
+    "Team": "Crazy Raccoon",
+    "Status": "Active",
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.7pkBTTrwLBUhRQvIM5W3qQAAAA&w=400&h=400&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Abadango",
+    "Name": "Yuta Kawamura",
+    "Nationality": "Japanese",
+    "Game": "Super Smash Bros. Ultimate",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.a01Y5SkpnBcYF92Lw819mQAAAA&w=400&h=400&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "JabhiM",
+    "Name": "Jabhi Mabuza",
+    "Nationality": "South African",
+    "Game": "Street Fighter 6",
+    "Team": "Goliath Gaming",
+    "Status": "Active",
+    "Image": "https://tse1.mm.bing.net/th?id=OIP.FK9zfGdbWkGkKEjS87ekfwAAAA&w=400&h=400&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Itabashi Zangief",
+    "Name": "Hiromiki Kumada",
+    "Nationality": "Japanese",
+    "Game": "Street Fighter 6",
+    "Team": "DetonatioN FocusMe",
+    "Status": "Active",
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.Yo7MY2p0kStF-iEWcm-49wHaE7&pid=Api",
+    "Link": ""
+  },
+  {
+    "Alias": "iThrowow",
+    "Name": "Andrew Lim",
+    "Nationality": "Canadian",
+    "Game": "Brawlhalla",
+    "Team": "Lazarus Esports",
+    "Status": "Active",
+    "Image": "https://x.com/ithrowow",
+    "Link": ""
+  },
+  {
+    "Alias": "JeonDDing",
+    "Name": "Jeon Sang-hyun",
+    "Nationality": "South Korean",
+    "Game": "Tekken 8",
+    "Team": "Team Vitality",
+    "Status": "Active",
+    "Image": "https://tse2.mm.bing.net/th?id=OIP.u6KMHHlNlGGZWtGML0REYAAAAA&w=458&h=458&c=7",
+    "Link": ""
+  },
+  {
+    "Alias": "Jibrill",
+    "Name": "Gabriel Lam",
+    "Nationality": "United States",
+    "Game": "Ultimate Marvel vs. Capcom 3",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://pbs.twimg.com/media/FsvrLJpWYAgH-lG?format=jpg&name=large",
+    "Link": ""
   }
 ]
