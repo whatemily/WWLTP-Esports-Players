@@ -398,5 +398,336 @@
     "Status": "Active",
     "Image": "https://cdn.oneesports.gg/cdn-data/2022/07/Valorant_DRX_BuZz_VCTKoreaStage2Challengers_Champions_7.webp",
     "Link": ""
+  },
+    {
+    "Alias": "Bang",
+    "Name": "배준식 (Bae Jun-sik)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Retired",
+    "Status": "Inactive",
+    "Image": "https://static.invenglobal.com/upload/image/2018/07/29/i1532866306152441.jpeg",
+    "Link": "https://www.wwltp.com/bang-lol"
+  },
+  {
+    "Alias": "CoreJJ",
+    "Name": "조용인 (Jo Yong-in)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Team Liquid",
+    "Status": "Active",
+    "Image": "https://miro.medium.com/v2/resize:fit:640/1*CFCnurO0OUscI0lv4MocdQ.jpeg",
+    "Link": "https://www.wwltp.com/corejj"
+  },
+  {
+    "Alias": "Faker",
+    "Name": "이상혁 (Lee Sang-hyeok)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Faker_2020_interview.jpg",
+    "Link": "https://www.wwltp.com/faker"
+  },
+  {
+    "Alias": "Baolan",
+    "Name": "王柳羿 (Wang Liuyi)",
+    "Nationality": "China",
+    "Game": "League of Legends",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/wp-content/uploads/2020/07/LeagueOfLegends_InvicutsGaming_Worlds2018_Baolan-1024x683.jpg",
+    "Link": "https://www.wwltp.com/baolan"
+  },
+  {
+    "Alias": "Bengi",
+    "Name": "배성웅 (Bae Seong-woong)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Dplus",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/05/LeagueOfLegends_Worlds2016_SKTelecomT1_Bengi-1024x576.jpg",
+    "Link": "https://www.wwltp.com/bengi"
+  },
+  {
+    "Alias": "Blank",
+    "Name": "강선구 (Kang Sun-gu)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://static.invenglobal.com/upload/image/2018/07/27/i1532701455326576.jpeg",
+    "Link": "https://www.wwltp.com/blank"
+  },
+  {
+    "Alias": "Caps",
+    "Name": "Rasmus Borregaard Winther",
+    "Nationality": "Denmark",
+    "Game": "League of Legends",
+    "Team": "G2 Esports",
+    "Status": "Active",
+    "Image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2020/01/G2-Caps-breaks-obscure-record-in-first-pro-ADC-League-of-Legends-match.png",
+    "Link": "https://www.wwltp.com/caps"
+  },
+  {
+    "Alias": "Duke",
+    "Name": "Lee Ho-seong",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://static.invenglobal.com/upload/image/2019/11/07/i1573192907903581.jpeg",
+    "Link": ""
+  },
+  {
+    "Alias": "Impact",
+    "Name": "정언영 (Jeong Eon-young)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Team Liquid",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/11/LeagueofLegends_Impact_Worlds2022_EvilGeniuses.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "JackeyLove",
+    "Name": "喻文波 (Wenbo Yu)",
+    "Nationality": "China",
+    "Game": "League of Legends",
+    "Team": "Top Esports",
+    "Status": "Active",
+    "Image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F1103%2Fr458111_1296x729_16%2D9.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Karsa",
+    "Name": "洪浩軒 (Hung Hau-hsuan)",
+    "Nationality": "Taiwan",
+    "Game": "League of Legends",
+    "Team": "TALON",
+    "Status": "Active",
+    "Image": "https://pbs.twimg.com/media/DdJ_hY6X0AAbRh1.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "knight",
+    "Name": "卓定 (Zhuo Ding)",
+    "Nationality": "China",
+    "Game": "League of Legends",
+    "Team": "Bilibili Gaming",
+    "Status": "Active",
+    "Image": "https://static.invenglobal.com/upload/image/2020/09/26/o1601108832529289.jpeg",
+    "Link": ""
+  },
+  {
+    "Alias": "Mata",
+    "Name": "조세형 (Cho Se-hyoung)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "T1",
+    "Status": "Active",
+    "Image": "https://static.invenglobal.com/upload/image/2019/12/16/i1576500261831630.jpeg",
+    "Link": ""
+  },
+  {
+    "Alias": "Meiko",
+    "Name": "田野 (Tian Ye)",
+    "Nationality": "China",
+    "Game": "League of Legends",
+    "Team": "Invictus Gaming",
+    "Status": "Active",
+    "Image": "https://live.staticflickr.com/1957/31592123588_7e654597cc_b.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Ming",
+    "Name": "史森明 (Shi Senming)",
+    "Nationality": "China",
+    "Game": "League of Legends",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/05/LeagueOfLegends_MSI2022_RNG_Ming_headset-1024x576.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Ning",
+    "Name": "高振宁 (Gao Zhenning)",
+    "Nationality": "China",
+    "Game": "League of Legends",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://www.esportmaniacos.com/wp-content/uploads/2021/12/ning-1-780x470.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Peanut",
+    "Name": "한왕호 (Han Wang-ho)",
+    "Nationality": "South Korea",
+    "Game": "League of Legends",
+    "Team": "Hanwha Life Esports",
+    "Status": "Active",
+    "Image": "https://a.espncdn.com/photo/2016/1001/r134155_1296x729_16-9.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "ana",
+    "Name": "Anathan Pham",
+    "Nationality": "Australia",
+    "Game": "Dota 2",
+    "Team": "Retired",
+    "Status": "Inactive",
+    "Image": "https://img.redbull.com/images/c_crop,x_367,y_0,h_800,w_640/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2019/03/14/b1add41d-afb9-4919-bebf-17eb9da60029/og-ana-dota-2",
+    "Link": "https://www.wwltp.com/ana"
+  },
+  {
+    "Alias": "Ceb",
+    "Name": "Sébastien Debs",
+    "Nationality": "France",
+    "Game": "Dota 2",
+    "Team": "OG",
+    "Status": "Active",
+    "Image": "https://www.strafe.com/_next/image/?url=https%3A%2F%2Fwww.strafe.com%2Fesports-betting%2Fstrafe-news%2Fwp-content%2Fuploads%2Fsites%2F29%2FCeb-2.jpg.webp&w=3840&q=75",
+    "Link": "https://www.wwltp.com/ceb"
+  },
+  {
+    "Alias": "Collapse",
+    "Name": "Magomed Khalilov",
+    "Nationality": "Russia",
+    "Game": "Dota 2",
+    "Team": "Team Spirit",
+    "Status": "Active",
+    "Image": "https://game-tournaments.com/media/news/n57624.jpeg",
+    "Link": "https://www.wwltp.com/collapse"
+  },
+  {
+    "Alias": "Faith_bian",
+    "Name": "张睿达 (Zhang Ruida)",
+    "Nationality": "China",
+    "Game": "Dota 2",
+    "Team": "Team Tidebound",
+    "Status": "Active",
+    "Image": "https://s.yimg.com/ny/api/res/1.2/OGZ5xnrI4tIPqANcQiJUnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/2eb87630-5385-11ed-bddd-f5adcd6fc797",
+    "Link": ""
+  },
+  {
+    "Alias": "fy",
+    "Name": "徐林森 (Xu Linsen)",
+    "Nationality": "China",
+    "Game": "Dota 2",
+    "Team": "Retired",
+    "Status": "Inactive",
+    "Image": "https://admin.esports.gg/wp-content/uploads/2023/06/Azure-Ray-fy-qualifies-for-Dota-2-Bali-Major-for-the-first-time-in-four-years-640x360.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "GH",
+    "Name": "Maroun Merhej",
+    "Nationality": "Lebanon",
+    "Game": "Dota 2",
+    "Team": "Nigma Galaxy",
+    "Status": "Active",
+    "Image": "https://www.hotspawn.com/wp-content/uploads/2025/02/gh_ti9.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "JerAx",
+    "Name": "Jesse Vainikka",
+    "Nationality": "Finland",
+    "Game": "Dota 2",
+    "Team": "Retired",
+    "Status": "Inactive",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/05/Dota2_OG_JerAx_EPICENTER-1.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "KuroKy",
+    "Name": "Kuro Salehi Takhasomi",
+    "Nationality": "Germany",
+    "Game": "Dota 2",
+    "Team": "Nigma Galaxy",
+    "Status": "Active",
+    "Image": "https://www.strafe.com/_next/image/?url=https%3A%2F%2Fwww.strafe.com%2Fesports-betting%2Fstrafe-news%2Fwp-content%2Fuploads%2Fsites%2F29%2FKuro.jpg.webp&w=3840&q=75",
+    "Link": ""
+  },
+  {
+    "Alias": "MATUMBAMAN",
+    "Name": "Lasse Urpalainen",
+    "Nationality": "Finland",
+    "Game": "Dota 2",
+    "Team": "Retired",
+    "Status": "Inactive",
+    "Image": "https://cdn.oneesports.gg/cdn-data/2022/10/Dota2_Matumbaman_TeamLiquid_TI11Playoffs_2.webp",
+    "Link": ""
+  },
+  {
+    "Alias": "MinD_ContRoL",
+    "Name": "Ivan Ivanov",
+    "Nationality": "Bulgaria",
+    "Game": "Dota 2",
+    "Team": "Free Agent",
+    "Status": "Active",
+    "Image": "https://www.strafe.com/esports-betting/strafe-news/wp-content/uploads/sites/29/Mind-Control-1.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Miposhka",
+    "Name": "Yaroslav Naidenov",
+    "Nationality": "Russia",
+    "Game": "Dota 2",
+    "Team": "Team Spirit",
+    "Status": "Active",
+    "Image": "https://game-tournaments.com/media/news/n48891.jpeg",
+    "Link": ""
+  },
+  {
+    "Alias": "Mira",
+    "Name": "Myroslav Kolpakov",
+    "Nationality": "Ukraine",
+    "Game": "Dota 2",
+    "Team": "Aurora Gaming",
+    "Status": "Active",
+    "Image": "https://admin.esports.gg/wp-content/uploads/2022/02/Esports-Mira-Techies-Tinker-Team-Spirit.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Miracle-",
+    "Name": "Amer Al-Barkawi",
+    "Nationality": "Jordan, Poland",
+    "Game": "Dota 2",
+    "Team": "Nigma Galaxy",
+    "Status": "Active",
+    "Image": "https://www.strafe.com/esports-betting/strafe-news/wp-content/uploads/sites/29/Miracle-.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "N0tail",
+    "Name": "Johan Sundstein",
+    "Nationality": "Denmark",
+    "Game": "Dota 2",
+    "Team": "Retired",
+    "Status": "Inactive",
+    "Image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2022/01/20/dota-2-og-n0tail-return.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "Nisha",
+    "Name": "Michal Jankowski",
+    "Nationality": "Poland",
+    "Game": "Dota 2",
+    "Team": "Team Liquid",
+    "Status": "Active",
+    "Image": "https://cdn.oneesports.gg/cdn-data/wp-content/uploads/2020/01/ONE_Esports_Dota2_Invitational_Team_Secret-0018.jpg",
+    "Link": ""
+  },
+  {
+    "Alias": "donk",
+    "Name": "Danil Kryshkovets",
+    "Nationality": "Russia",
+    "Game": "Counter-Strike 2",
+    "Team": "Team Spirit",
+    "Status": "Active",
+    "Image": "https://cdn.sanity.io/images/6znhzi10/production/d39e4918453ffcec1f03c7288a3054c7b58fb206-1920x1280.jpg?w=768&auto=format",
+    "Link": ""
   }
+]
 ]
